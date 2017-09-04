@@ -1,4 +1,3 @@
 rootProject.name = 'DarkBot'
 include 'core'
-include 'protocol'
 
